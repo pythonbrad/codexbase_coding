@@ -1,6 +1,3 @@
-/*
-    NB: This code is for an OS Windows
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

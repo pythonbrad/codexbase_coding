@@ -30,7 +30,7 @@ int main(int argc, char const *argv[]) {
     
     // We verify if the password can be generate
     if (num_alc + num_auc + num_d + num_sc > sizeof(password)) {
-        printf("Error: The max length should be %i\n", sizeof(password));
+        printf("Error: The max length should be %li\n", sizeof(password));
         return -1;
     };
 
