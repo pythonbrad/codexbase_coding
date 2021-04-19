@@ -5,7 +5,7 @@
 ### 2- Write a little game who ask to user to find a number, show "it's hot" if the number given is less or "it's cold" if the number given is great, otherwise "You won".
 
 ### 3- Write a little hangman game. The user should found a word and enter letter by letter. If the user give a letter present in the word, this letter is show in the hidden word.
-- _ _ _ _
+- ._ _ _ _
 - > w
 - w _ _ _
 - > i
