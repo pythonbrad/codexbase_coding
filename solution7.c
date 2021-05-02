@@ -12,11 +12,11 @@ int main() {
     // Because the first line
     num_lines = 1;
 
-    // We ask to user to enter the file to edit
+    // We ask to user to enter the filename
     printf("File: ");
     scanf("%s", filename);
 
-    // We load the contains of this file and encrypt it
+    // We load the contains of this file
     file = fopen(filename, "r");
     while (1) {
         character = fgetc(file);

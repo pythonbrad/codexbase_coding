@@ -6,7 +6,6 @@
 #include <conio.h>
 
 int main() {
-    int i;
     char key;
     // We start the loop
     while (1) {
